@@ -48,12 +48,6 @@
 
 ---
 
-## 📸 Demo
-
-> _(Include a short GIF or image here showing login → select repo → AI tweet → post on X)_
-
----
-
 ## 🛠 Tech Stack
 
 - **Frontend:** Next.js + Tailwind CSS  
@@ -65,10 +59,3 @@
 - **Optional Posting to X:** X (Twitter) API
 
 ---
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/git2x.git
-cd git2x
-npm install
